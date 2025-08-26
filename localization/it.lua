@@ -465,6 +465,9 @@ return {
 			ch_c_hanging_chad_rework = { "{C:attention}Scheda non valida{} è {C:dark_edition}modificata" },
 			ch_c_glass_cards_rework = { "Le {C:attention}Carte di vetro{} sono {C:dark_edition}modificate" },
 			ch_c_mp_score_instability = { "Il punteggio sbilanciato è {C:purple}destabilizzato{} ulteriormente:" },
+			ch_c_mp_score_instability_EXAMPLE = {
+				"  {C:inactive}(ex: {C:chips}250{C:inactive}x{C:mult}350{C:inactive} -> {C:chips}200{C:inactive}x{C:mult}400{C:inactive})",
+			},
 			ch_c_mp_score_instability_LOC1 = { "  {C:inactive}Minimo di {C:attention}1 {C:mult}Molt" },
 			ch_c_mp_score_instability_LOC2 = { "  {C:inactive}Minimo di {C:attention}0 {C:chips}Fiche" },
 			ch_c_mp_ante_scaling = { "{C:red}X#1#{} dimensione base del Buio" },
@@ -484,7 +487,7 @@ return {
 			c_mp_skip_off = "Salta tutto",
 			c_mp_lets_go_gambling = "Let's go gambling!",
 			c_mp_speed = "Velocità",
-			c_mp_balancing_act = "Atto di bilanciamento",
+			c_mp_balancing_act = "Atto del bilanciamento",
 		},
 	},
 }
